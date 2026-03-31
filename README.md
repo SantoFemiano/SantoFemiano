@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Santo Femiano 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · Java & Spring Boot enthusiast · Based in Salerno, Italy 🇮🇹
+  <b>Full-Stack Developer</b> · Java & Spring Boot enthusiast · Based in Naples, Italy 🇮🇹
 </p>
 
 <p align="center">
