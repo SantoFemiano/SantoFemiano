@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/SantoFemiano/yumaste-backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/SantoFemiano/yumaste-backend/actions/workflows/deploy.yml)
+
 <h1 align="center">Hey, I'm Santo Femiano 👋</h1>
 
 <p align="center">
